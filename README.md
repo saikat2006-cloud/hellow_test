@@ -1,5 +1,6 @@
 # hellow_test
 setting up git
 <br>
-author - saikat kumar khatua.
+author - saikat kumar khatua.(Jadavpur University)
+
 
